@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.31.0](https://www.github.com/googleapis/google-api-java-client/compare/v1.30.11...v1.31.0) (2020-10-30)
+
+
+### Features
+
+* add GoogleApacheHttpTransport that uses the v2 ApacheHttpTransport implementation ([#1568](https://www.github.com/googleapis/google-api-java-client/issues/1568)) ([d0dbca7](https://www.github.com/googleapis/google-api-java-client/commit/d0dbca720479f1ca8627c58eda195857ea0b2423))
+
 ### [1.30.11](https://www.github.com/googleapis/google-api-java-client/compare/v1.30.10...v1.30.11) (2020-10-13)
 
 
